@@ -1,4 +1,4 @@
-# vue1
+# vue-router-firebase-crud
 
 ## Project setup
 ```
